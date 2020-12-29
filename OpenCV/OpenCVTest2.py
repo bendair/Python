@@ -6,7 +6,6 @@ import sys
 if __name__ == '__main__' :
 
     # Set up tracker.
-    # Instead of MIL, you can also use
 
     tracker_types = ['BOOSTING', 'MIL','KCF', 'TLD', 'MEDIANFLOW', 'GOTURN', 'MOSSE', 'CSRT']
     tracker_type = tracker_types[7]
